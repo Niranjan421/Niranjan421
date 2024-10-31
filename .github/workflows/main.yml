@@ -35,7 +35,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#ffa500,#ff8c00,#ff7f50,#ff6347,#ff4500
+            dist/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#ffa500,#ff8c00,#ff7f50,#ff6347,#ff4500&color_bg=ffffff00
+
 
 
         env:
